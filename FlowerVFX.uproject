@@ -10,10 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "GraphNUnrealPlugin",
-			"Enabled": true
 		}
 	]
 }
